@@ -1,0 +1,7 @@
+In your Terminal.
+  cd 'Project Folder'
+  npm install
+  npm run css
+
+And you are good to go.
+If you Make an error in your tailwind.config.js, You probably rerun 'npm run css'.
