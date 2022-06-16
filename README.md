@@ -1,4 +1,4 @@
-# Bare: Tailwind CSS
+# Tailwind Boilerplate
 An unstyled starter template for Tailwind CSS v3.0 with predefined file paths - a great boilerplate for starting a new Tailwind CSS project.
 
 ### Preview
@@ -7,7 +7,7 @@ An unstyled starter template for Tailwind CSS v3.0 with predefined file paths - 
 
 ### How To Use
 
-Download the zip file [here](https://github.com/abrahamebij/bare-tailwindcss/archive/master.zip), and extract it.
+Download the zip file [here](https://github.com/abrahamebij/tailwind-boilerplate/archive/master.zip), and extract it.
 
  Open up your terminal.
 ```
@@ -30,7 +30,7 @@ And you are good to go.
 
 ### Demo
 
-You can view the live demo at https://abrahamebij.github.io/bare-tailwindcss/public/index.html
+You can view the live demo at https://abrahamebij.github.io/tailwind-boilerplate/
 
 
 ### Error Handling
