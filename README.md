@@ -9,12 +9,14 @@ An unstyled starter template for Tailwind CSS v3.0 with predefined file paths - 
 
 Download the zip file [here](https://github.com/abrahamebij/tailwind-boilerplate/archive/master.zip), and extract it.
 
- Open up your terminal.
+ Open up your terminal and run these commands.
 ```
- cd 'Project Folder'
-
+ cd '<Project Folder>'
+```
+```
  npm install
-
+```
+```
  npm run css
 ```
 
