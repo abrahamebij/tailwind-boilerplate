@@ -3,7 +3,7 @@ An unstyled starter template for Tailwind CSS v3.0 with predefined file paths - 
 
 ### Preview
 
-![Preview](https://raw.githubusercontent.com/abrahamebij/images/main/previews/bare-tailwind.webp)
+![Preview](https://raw.githubusercontent.com/abrahamebij/images/main/tailwind-boilerplate.webp)
 
 ### How To Use
 
