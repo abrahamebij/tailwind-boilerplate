@@ -7,7 +7,7 @@ An unstyled starter template for Tailwind CSS v3.0 with predefined file paths - 
 
 ### How To Use
 
-Download the zip file [here](https://github.com/abrahamebij/tailwind-boilerplate/archive/master.zip), and extract it.
+Download the zip file [here](https://github.com/abrahamebij/tailwind-boilerplate/archive/master.zip), and extract it or simply just fork it.
 
  Open up your terminal and run these commands.
 ```
